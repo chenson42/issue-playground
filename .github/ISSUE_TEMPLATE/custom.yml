@@ -1,9 +1,7 @@
 name: Custom Bug Report
 description: File a bug report
-title: "[Bug]: "
+title: "[Something]: "
 labels: ["bug", "triage"]
-assignees:
-  - octocat
 body:
   - type: markdown
     attributes:
